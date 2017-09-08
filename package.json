@@ -1,0 +1,19 @@
+{
+  "name": "things-scene-core",
+  "version": "1.0.0",
+  "description": "Public bower package for things-scene",
+  "main": "things-scene-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThingsElements/things-scene-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThingsElements/things-scene-core/issues"
+  },
+  "homepage": "https://github.com/ThingsElements/things-scene-core#readme"
+}
