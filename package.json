@@ -1,6 +1,6 @@
 {
   "name": "things-scene-core",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "description": "Public bower package for things-scene",
   "main": "things-scene-min.js",
   "scripts": {
